@@ -1,2 +1,2 @@
 # symfony-easy-admin
-Implements EasyAdminBundle
+Implements EasyAdminBundle with symfony 4 framework
